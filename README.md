@@ -4,6 +4,7 @@ Learn more about me on [ismailbennnai.fr](https://ismailbennani.fr).
 
 # Take a look at
 
+- [FacturX.NET](https://github.com/FacturX-NET/FacturXDotNet): A unified platform to manage Factur-X documents the way you prefer. [demo](https://demo.facturxdotnet.org/editor)
 - [openapi-changelog](https://github.com/ismailbennani/openapi-changelog): Compute a nice changelog between two OpenAPI documents. [demo](http://www.ismailbennani.fr/openapi-changelog/)
 - [FADBADml](http://fadbadml-dev.github.io/FADBADml/): Small, simple, standalone, OCaml library for Automatic Differentiation. [opam](https://opam.ocaml.org/packages/fadbadml/)
 - [Websocketml](https://github.com/ismailbennani/websocketml): A simple websocket library for OCaml with no dependency. [opam](https://opam.ocaml.org/packages/websocketml/)
